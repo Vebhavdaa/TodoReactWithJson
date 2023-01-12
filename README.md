@@ -1,5 +1,7 @@
 # Hello, Please install and run json-server using "json-server --watch db.json --port 4141" or "npm run server".
 
+#Data won't show up , unless you run json-server.
+
 
 #You can add, edit , delete notes on this react app.
 #I've implemented CRUD operation using axios.
